@@ -1,8 +1,8 @@
 <h1 align = "center"> Hello there, my name is Anderson Boa Morte  <img src="https://github.com/abmorte/abmorte/blob/main/images/waving_hand.gif" width="40px"></h1>
 
-Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blockchain at IFPB - living in <b>João Pessoa - PB 😎</b>. 
+Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blockchain at IFPB - born in Salvador-BA, living in <b>João Pessoa - PB 😎</b>. 
 
-<h3>My Recent Projects</h3>
+<h3>My Recent Projects (in Portuguese)</h3>
 <ul>
   <li>Data augmentation with CTGAN</li>
   <li>AIOps REST API using React, Flask and <a href="https://spacy.io/">spaCy</a></li>
@@ -10,7 +10,7 @@ Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blo
 </ul>
 <h3>My Recent Publications</h3>
 <ul>
-  <li><a href="https://sol.sbc.org.br/index.php/wblockchain/article/view/12435"><b>Uma Análise Sobre o Uso de DLTs no Tratamento de Dados Pessoais: Aderência aos Princípios e Direitos elencados na LGPD</li>
+  <li><a href="https://sol.sbc.org.br/index.php/wblockchain/article/view/12435"><b>Uma Análise Sobre o Uso de DLTs no Tratamento de Dados Pessoais: Aderência aos Princípios e Direitos elencados na LGPD</a></li>
 </ul>
 <h3>📄 Favorite Languages:</h3>
 <p>
@@ -23,7 +23,7 @@ Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blo
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 </p>
-<h3 align="left"> 📊 Métricas do Github: </h3>
+<h3 align="left"> 📊 Github Stats: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abmorte&label=Profile%20views&color=0e75b6&style=flat" alt="abmorte" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abmorte&show_icons=true&locale=en" alt="abmorte" /></p>
@@ -32,7 +32,7 @@ Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blo
 
 
 </br>
-<h3 align="center">Find me on</h3>
+<h3 align="left">Find me on: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andersonboamorte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abmorte" height="30" width="40" /></a>
 <a href="https://instagram.com/andersonboamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anderson Boa Morte" height="30" width="40" /></a>
