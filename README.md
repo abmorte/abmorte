@@ -1,14 +1,14 @@
 <h1 align = "center"> Hello there, my name is Anderson Boa Morte  <img src="https://github.com/abmorte/abmorte/blob/main/images/waving_hand.gif" width="40px"></h1>
 
-Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blockchain at IFPB - born in Salvador-BA, living in <b>João Pessoa - PB 😎</b>. 
+Pleasure to meet you. I'm a Data Scientist at <a href="https://dataprev.gov.br/"> Dataprev </a> and Master student in blockchain at <a href="https://www.ifpb.edu.br/ppgti">PPGTI-IFPB </a> living in <b>João Pessoa - PB 😎</b>. 
 
-<h3>My Recent Projects (in Portuguese)</h3>
+<h3>My Recent Projects </h3>
 <ul>
   <li>Data augmentation with CTGAN</li>
   <li>AIOps REST API using React, Flask and <a href="https://spacy.io/">spaCy</a></li>
-  <li>Blockchain REST API using FastAPI and Ethereum</li>  
+  <li>Privacy in Blockchain REST API using FastAPI and Ethereum</li>  
 </ul>
-<h3>My Recent Publications</h3>
+<h3>My Recent Publications (in Portuguese)</h3>
 <ul>
   <li><a href="https://sol.sbc.org.br/index.php/wblockchain/article/view/12435"><b>Uma Análise Sobre o Uso de DLTs no Tratamento de Dados Pessoais: Aderência aos Princípios e Direitos elencados na LGPD</a></li>
 </ul>
