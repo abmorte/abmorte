@@ -1,1 +1,1 @@
-# Hi threre!
+# Hi there!
