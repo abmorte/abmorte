@@ -5,8 +5,8 @@ Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blo
 <h3>My Recent Projects</h3>
 <ul>
   <li>Data augmentation with CTGAN</li>
-  <li>AIOps REST API using React, Flask, spaCy</li>
-  <li>Blockchain REST API using Fast API and Ethereum</li>  
+  <li>AIOps REST API using React, Flask and <a href="https://spacy.io/">spaCy</a></li>
+  <li>Blockchain REST API using FastAPI and Ethereum</li>  
 </ul>
 <h3>My Recent Publications</h3>
 <ul>
@@ -35,14 +35,14 @@ Pleasure to meet you. I'm a Data Scientist at Dataprev and Master student in blo
 <h3 align="center">Find me on</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andersonboamorte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abmorte" height="30" width="40" /></a>
-<a href="https://instagram.com/andersonboamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizzy_terra" height="30" width="40" /></a>
-<a href="https://medium.com/@anderson.boamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kizzyterra" height="30" width="40" /></a>
+<a href="https://instagram.com/andersonboamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anderson Boa Morte" height="30" width="40" /></a>
+<a href="https://medium.com/@anderson.boamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anderson.boamorte" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anderson_boamort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andersonboamorte" height="30" width="40" /></a>
 </p>
 
 <p align="center">
 <br>
-<text>He who has a why to live for can bear almost any how. — Friedrich Nietzsche</text>
+<text>"He who has a why to live for can bear almost any how." — Friedrich Nietzsche</text>
 </p>
 <br>
 <p align="center">
