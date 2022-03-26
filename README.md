@@ -35,7 +35,6 @@ Pleasure to meet you. I'm a Data Scientist at <a href="https://dataprev.gov.br/"
 <h3 align="left">Find me on: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andersonboamorte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abmorte" height="30" width="40" /></a>
-<a href="https://instagram.com/andersonboamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anderson Boa Morte" height="30" width="40" /></a>
 <a href="https://medium.com/@anderson.boamorte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anderson.boamorte" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anderson_boamort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andersonboamorte" height="30" width="40" /></a>
 </p>
