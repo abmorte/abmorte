@@ -1,5 +1,3 @@
-<h1 align = "center"> Hello there, my name is Anderson Boa Morte  <img src="https://github.com/abmorte/abmorte/blob/main/images/waving_hand.gif" width="40px"></h1>
-
 A pleasure to meet you. I'm a Data Scientist at <a href="https://dataprev.gov.br/"> Dataprev </a> - living in <b>João Pessoa - PB 😎</b>. 
 
 <h3>My Recent Projects </h3>
