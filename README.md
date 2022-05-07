@@ -37,13 +37,7 @@ A pleasure to meet you. I'm a Data Scientist at <a href="https://dataprev.gov.br
 <a href="https://www.hackerrank.com/anderson_boamort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andersonboamorte" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<br>
-<text>"He who has a why to live for can bear almost any how." — Friedrich Nietzsche</text>
-</p>
 <br>
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=abmorte.abmorte"/>
-<br>
-<img alt="centered image" height="85" src="images/brazil.png"/>
 </p>
